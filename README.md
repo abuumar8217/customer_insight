@@ -23,8 +23,7 @@ This repository contains a detailed exploratory data analysis (EDA) and regressi
 
 ## 📁 Files Included
 
-- `superstore_analysis.ipynb` – Main analysis notebook.
-- `SuperStore-Data.csv` – Input dataset.
+- `customer_insight.ipynb` – Main analysis notebook.
 - `README.md` – Overview and documentation.
 
 ---
